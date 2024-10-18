@@ -23,7 +23,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/M6128David/Django-crud.git
+git clone https://github.com/Daves-devspace/Django-crud.git
 cd YOUR_REPOSITORY
 Create a Virtual Environment
 
